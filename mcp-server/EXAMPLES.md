@@ -11,6 +11,13 @@ cd mcp-server
 node src/test.js
 ```
 
+Or run it directly if executable permissions are set:
+
+```bash
+cd mcp-server
+./src/test.js
+```
+
 ## Example Tool Calls
 
 ### 1. List Available Particle Examples
