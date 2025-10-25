@@ -1,8 +1,9 @@
 # Snowstorm
 
-Custom editor for Minecraft Bedrock Edition particle files. Available as a web app and VSCode Extension:
+Custom editor for Minecraft Bedrock Edition particle files. Available as a web app, VSCode Extension, and MCP Server:
 * **Web App:** [snowstorm.app](https://snowstorm.app/)
 * **VSCode Extension:** [Snowstorm - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JannisX11.snowstorm)
+* **MCP Server:** AI-powered particle editing via Model Context Protocol (see [mcp-server/README.md](mcp-server/README.md))
 
 
 ## Interface
@@ -25,3 +26,7 @@ Custom editor for Minecraft Bedrock Edition particle files. Available as a web a
 	#### VS Code Extension:
 
 	Press F5 to run the Extension Development Host in a new VS Code instance
+
+## MCP Server
+
+Snowstorm includes an MCP (Model Context Protocol) server that allows AI assistants to interact with particle files. See the [MCP Server documentation](mcp-server/README.md) for setup and usage instructions.
